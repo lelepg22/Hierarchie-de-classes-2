@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace Hierarchie_de_classes_2
 {
-    public class Band 
+    public interface IMusic
     {
-        public Band() { 
-        Artist artists;
-        Album albums;
-        }
-
+       
     }
 }

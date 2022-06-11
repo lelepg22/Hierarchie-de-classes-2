@@ -8,5 +8,10 @@ namespace Hierarchie_de_classes_2
 {
     public class Track
     {
+        public Track() { 
+        string track;
+        Artist artist;
+        Band band;
+        }
     }
 }
